@@ -6,6 +6,7 @@
 - 👨‍💻 Graduating in Full Web Stack by Let'sCode and Scholarship with support from <div style="display: inline_block"><img align="center" alt="Ifood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" /></div>
 - 🌱 I'm always learning and improving myself more and more every day
 <br/>
+
 ![](original.gif)
 
 ## Tecnologias que eu uso no meu dia
